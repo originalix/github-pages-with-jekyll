@@ -1,3 +1,8 @@
+---
+title: "Learning Lab 系列教程"
+date: 2019-01-17
+---
+
 Activity: Add some content to your blog
 On the "Code" tab, select your originalix-patch-1 branch
 
